@@ -7,7 +7,7 @@
  ## About Sri lanaka (Gajalakshan)
     I have added info about Sri Lanka
 	I have change few modification on style sheet
-  ## About India (Maksim Pasnitsenko)
+  ## About Estonia (Maksim Pasnitsenko)
     I have added info about Estonia and Images. 
   ## About India (Darshil Shah)
     I have added info about India and Images. 
